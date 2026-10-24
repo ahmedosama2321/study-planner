@@ -2,8 +2,6 @@
 
 A full-stack web app for organizing study tasks by subject, priority and deadline. Built with Next.js, with secure user authentication and a relational database.
 
-![Screenshot](./screenshot.png)
-
 ## Features
 
 - **Authentication**: sign up, log in and log out, with bcrypt-hashed passwords and JWT sessions stored in httpOnly cookies
